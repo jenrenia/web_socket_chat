@@ -1,0 +1,8 @@
+.body{
+	background: gray;
+}
+.container{
+	background: green;
+	width: 100%;
+	padding: 100px;
+}
